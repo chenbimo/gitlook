@@ -16,9 +16,8 @@ npm install -g @yicode/gitlook
 
 开源仓库地址
 
-[gitee - https://gitee.com/chenbimo/yicode](https://gitee.com/chenbimo/yicode)
 
-[github - https://github.com/chenbimo/yicode](https://github.com/chenbimo/yicode)
+[github - https://github.com/chenbimo/gitlook](https://github.com/chenbimo/gitlook)
 
 ## 概述说明
 
